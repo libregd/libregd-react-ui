@@ -1,5 +1,8 @@
 {
-  "name": "libregd-react-ui",
+  "name": "@libregd/libregd-react-ui",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/libregd"
+  },
   "version": "0.0.1",
   "description": "A simple template for a custom React component library",
   
